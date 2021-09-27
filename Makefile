@@ -6,9 +6,11 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=LuCI modern OpenWrt theme
+LUCI_TITLE:=LuCI Theme Waton
 LUCI_DEPENDS:=
+PKG_VERSION:=1.0
+PKG_RELEASE:=2021
 
-include ../../luci.mk
+include $(TOPDIR)/feeds/luci/luci.mk
 
 # call BuildPackage - OpenWrt buildroot signature
