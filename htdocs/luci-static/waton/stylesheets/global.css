@@ -34,7 +34,7 @@
 	text-decoration: none;
 	list-style: none;
 	color: inherit;
-	font-family: var(--regular-font), "sans-serif";
+	font-family: var(--regular-font), "nasalization";
 	border: none;
 	background: none;
 	outline: none;
@@ -690,7 +690,7 @@ tr.placeholder > td {
  .uci-change-legend-label ins,
  .uci-change-legend-label var {
  	text-decoration: none;
- 	font-family: monospace;
+ 	font-family: nasalization;
  	font-style: normal;
  	border: 1px solid #ccc;
  	background: #eee;
@@ -857,12 +857,12 @@ tr.placeholder > td {
  }
 
  code {
- 	font-family: monospace;
+ 	font-family: nasalization;
  	color: var(--main-dark-color);
  }
 
  pre {
- 	font-family: monospace;
+ 	font-family: nasalization;
  	margin: 0 0 1em 0;
  	font-size: .9rem;
  	box-shadow: inset 0 0 2px var(--header-bgcolor);
@@ -1376,7 +1376,7 @@ tr.placeholder > td {
  	box-shadow: inset 0 0 2px var(--content-shadowcolor);
  	-moz-box-shadow: inset 0 0 2px var(--content-shadowcolor);
  	-webkit-box-shadow: inset 0 0 2px var(--content-shadowcolor);
- 	font-family: monospace;
+ 	font-family: nasalization;
  	font-size: .9rem;
  	padding: .2rem;
  }
