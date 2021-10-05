@@ -8,7 +8,7 @@ include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=LuCI Theme Waton
 LUCI_DEPENDS:=
-PKG_VERSION:=1.0
+PKG_VERSION:=1.1
 PKG_RELEASE:=2021
 
 include $(TOPDIR)/feeds/luci/luci.mk

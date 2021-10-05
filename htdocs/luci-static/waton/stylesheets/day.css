@@ -26,7 +26,7 @@
 	--dropdown-focus-fg: var(--button-neutral-fg);
 	--dropdown-selected-bg: var(--button-positive-bg);
 	--dropdown-selected-fg: var(--button-positive-fg);
-	--header-bgcolor: #00A3E1;
+	--header-bg: #00A3E1;
 	--header-fg: #00A;
 	--main-bg: #8ea4e3;
 	--main-fg: #021922;
@@ -36,13 +36,25 @@
 	--outline1: .1rem solid #ccc;
 	--outline2: .5rem solid #ccc;
 	--section-bgcolor: rgba(255,255,255,.25);
-	--success-color: #5CB85C;
+	--success-bg: #5CB85C;
+	--success-fg: #fff;
 	--table-head-bg: #00a3e1;
 	--table-head-fg: #fff;
 	--table-rows-bgcolor1: #ebebeb;
 	--table-rows-bgcolor2: rgba(255,255,255,.5);
 	--topbar-shadowcolor:  rgba(0,0,0,.2);
-	--warning-color: #CC8800;
+	--warning-bg: #ffaa00;
+	--warning-fg: #fff;
 	--modal-bg: #d5ddf5;
 	--modal-fg: #000;
+	--button-textinput-bg: #9f9f9f;
+	--button-textinput-fg: #000;
+	--mainmenu-hover-bg: #000;
+	--mainmenu-hover-fg: #fff;
+	--submenu-hover-bg: #fff;
+	--submenu-hover-fg: #000;
+	--mainmenu-active-bg: #000;
+	--mainmenu-active-fg:#fff;
+	--mainmenu-inactive-bg: #fff;
+	--mainmenu-inactive-fg:#000;
 }
